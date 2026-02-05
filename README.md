@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src=".episodio-01-tech-and-chill.mp3" width="400" alt="Episódio Piloto">
+  <img src="episodio-01-tech-and-chill.mp3" width="400" alt="Episódio Piloto">
 </p>
 
 ## 📒 Descrição
