@@ -1,7 +1,7 @@
 # Tech & Chill: O Podcast Natty da Sofia ;)
 
 <p align="center">
-  <img src="./assets/avatar-sofia-final.png" width="400" alt="Avatar da Sofia">
+  <img src="./avatar-sofia-final.png" width="400" alt="Avatar da Sofia">
 </p>
 
 ## 📒 Descrição
