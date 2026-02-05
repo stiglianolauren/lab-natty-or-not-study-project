@@ -1,5 +1,9 @@
 # Tech & Chill: O Podcast da Sofia ;)
 
+<p align="center">
+  <img src="./assets/avatar-sofia-final.png" width="400" alt="Avatar da Sofia">
+</p>
+
 ## 📒 Descrição
 
 O **Tech & Chill** é um podcast diário focado em curadoria de notícias tecnológicas, desenhado para soar o mais humano e natural possível. Através da persona **Sofia**, o projeto explora como a IA Generativa pode capturar nuances culturais, sarcasmo e ritmos de fala específicos do Português Europeu, fugindo do tom robótico tradicional das assistentes virtuais.
@@ -29,7 +33,7 @@ A criação da **Sofia** não foi um processo de um único clique. Para atingir 
 
 ## 🚀 Resultados
 
-* **Episódio Piloto:** Um áudio de 2 minutos que cobre notícias de IA e gadgets com fluidez natural.
+* **Episódio Piloto:** Um áudio de 1 minuto que cobre notícias de IA e gadgets com fluidez natural.
 * **Identidade Sonora:** Vinhetas exclusivas que misturam o ambiente urbano de Lisboa com sintetizadores tecnológicos.
 * **Persona Consistente:** Uma marca vocal reconhecível que pode ser escalada para episódios diários sem necessidade de gravação humana.
 
