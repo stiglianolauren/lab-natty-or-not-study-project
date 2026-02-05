@@ -18,6 +18,15 @@ O **Tech & Chill** é um podcast diário focado em curadoria de notícias tecnol
 3. **Engenharia de Prompt Vocal:** Ajustámos a estabilidade da voz no ElevenLabs para 40%, permitindo maior variação emocional e menos monotonia.
 4. **Design Sonoro:** Desenvolvemos prompts específicos para que a música de encerramento terminasse na mesma nota da abertura, criando um loop infinito para prender o ouvinte.
 
+### 🎨 Refinamento do Avatar (Iterações de Design)
+
+A criação da **Sofia** não foi um processo de um único clique. Para atingir o nível "Natty" (realista), foi realizado um trabalho de direção de arte através de múltiplas iterações:
+
+1. **Conceito Inicial:** Geração da persona com base no perfil jovem e urbano de Lisboa.
+2. **Correção de Artefatos:** Identificação e remoção de elementos que denunciavam a IA, como fios de auscultadores desnecessários e fones duplicados no pescoço.
+3. **Ajuste de Anatomia e Realismo:** Refinamento da simetria ocular e correção da cor dos iniciais com heterocromia, para olhos castanho escuro, garantindo consistência com a descrição da persona.
+4. **Iluminação e Ambiente:** Ajuste para luz natural (Golden Hour) para integrar o avatar com o cenário de fundo de Lisboa de forma orgânica.
+
 ## 🚀 Resultados
 
 * **Episódio Piloto:** Um áudio de 2 minutos que cobre notícias de IA e gadgets com fluidez natural.
