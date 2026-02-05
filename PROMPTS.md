@@ -5,7 +5,7 @@ Este documento contém os prompts utilizados para gerar a identidade visual e o 
 ## 🖼️ Imagem (Avatar da Sofia)
 **Ferramenta:** Gemini / Nano Banana
 **Prompt Final:**
-> [Coloca aqui o prompt em inglês acima]
+"Hyper-realistic portrait of a 24-year-old Portuguese woman named Sofia with deep dark brown eyes. She has a modern urban style, wearing a minimalist white hoodie with wireless over-ear headphones. She is sitting in a sunlit Lisbon balcony with a blurred view of terracotta roofs and the Tagus river in the background. Natural golden hour lighting, 8k resolution, cinematic grain, candid look, looking slightly away from the camera with a subtle, sarcastic smile. No wires, professional podcast microphone on the table next to a steaming cup of coffee."
 
 **Notas de Refinamento:** Foram necessárias 6 iterações para remover cabos dos auscultadores, ajustar a simetria ocular e definir a cor dos olhos para castanho escuro.
 
