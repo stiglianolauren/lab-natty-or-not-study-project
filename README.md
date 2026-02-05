@@ -37,6 +37,6 @@ A criação da **Sofia** não foi um processo de um único clique. Para atingir 
 * **Identidade Sonora:** Vinhetas exclusivas que misturam o ambiente urbano de Lisboa com sintetizadores tecnológicos.
 * **Persona Consistente:** Uma marca vocal reconhecível que pode ser escalada para episódios diários sem necessidade de gravação humana.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 
-O maior desafio foi evitar o "vale da estranheza" (Uncanny Valley). Criar algo *natty* com IA exige mais do que apenas converter texto em fala; exige entender pausas, tiques de linguagem locais e o timing de uma piada. A tecnologia já permite o realismo, mas a "alma" do conteúdo ainda depende de um bom design de persona.
+O maior desafio foi evitar o "vale da estranheza" (Uncanny Valley). Criar algo *natty* com IA exige mais do que apenas converter texto em fala; exige entender pausas, tiques de linguagem locais e o timing de uma piada. A tecnologia já permite o realismo, mas a "alma" do conteúdo ainda depende de um bom design de persona e edição final do áudio.
