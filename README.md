@@ -1,42 +1,29 @@
-# Tech & Chill: O Podcast da Sofia ;)
+# Tech & Chill: O Podcast Natty da Sofia ;)
 
 <p align="center">
-  <img src="./avatar-sofia-final.png" width="400" alt="Avatar da Sofia">
+  <img src="./assets/avatar-sofia-final.png" width="400" alt="Avatar da Sofia">
 </p>
 
 ## 📒 Descrição
-
-O **Tech & Chill** é um podcast diário focado em curadoria de notícias tecnológicas, desenhado para soar o mais humano e natural possível. Através da persona **Sofia**, o projeto explora como a IA Generativa pode capturar nuances culturais, sarcasmo e ritmos de fala específicos do Português Europeu, fugindo do tom robótico tradicional das assistentes virtuais.
+O **Tech & Chill** é um podcast diário focado em curadoria de notícias tecnológicas, desenhado para soar o mais humano e natural possível. Através da persona **Sofia**, o projeto explora como a IA Generativa pode capturar nuances culturais, sarcasmo e ritmos de fala específicos do Português Europeu (PT-PT), fugindo do tom robótico tradicional.
 
 ## 🤖 Tecnologias Utilizadas
-
-* **Gemini (Google):** Para a criação da persona detalhada e redação dos guiões (scripts) com tom sarcástico.
-* **ElevenLabs:** Para a síntese de voz de alta fidelidade (Português de Portugal) e clonagem de estilo vocal.
-* **Suno/Udio:** Para a geração da banda sonora (lo-fi tech) e vinhetas de abertura/fecho em loop.
-* **Adobe Podcast / Audacity:** Para a limpeza de áudio e mixagem final dos efeitos de glitch.
+* **Gemini (Google):** Planeamento da persona, redação dos guiões e engenharia de prompts.
+* **ElevenLabs:** Síntese de voz de alta fidelidade com ajuste fino para sotaque de Portugal.
+* **Suno AI:** Geração da banda sonora original e vinhetas em estilo "lo-fi tech".
+* **CapCut:** Edição final, redução de ruído por IA e mixagem da trilha sonora com a locução.
 
 ## 🧐 Processo de Criação
-
-1. **Definição da Persona:** Criámos a "Sofia", uma jovem lisboeta de 24 anos, cujos traços de personalidade (viciada em café, irónica, dinâmica) guiam toda a escrita do guião.
-2. **Curadoria de Conteúdo:** Utilizámos IAs para resumir notícias de fontes como *SAPO Tek* e *Wired*, adaptando a linguagem para um estilo de "áudio de WhatsApp".
-3. **Engenharia de Prompt Vocal:** Ajustámos a estabilidade da voz no ElevenLabs para 40%, permitindo maior variação emocional e menos monotonia.
-4. **Design Sonoro:** Desenvolvemos prompts específicos para que a música de encerramento terminasse na mesma nota da abertura, criando um loop infinito para prender o ouvinte.
-
-### 🎨 Refinamento do Avatar (Iterações de Design)
-
-A criação da **Sofia** não foi um processo de um único clique. Para atingir o nível "Natty" (realista), foi realizado um trabalho de direção de arte através de múltiplas iterações:
-
-1. **Conceito Inicial:** Geração da persona com base no perfil jovem e urbano de Lisboa.
-2. **Correção de Artefatos:** Identificação e remoção de elementos que denunciavam a IA, como fios de auscultadores desnecessários e fones duplicados no pescoço.
-3. **Ajuste de Anatomia e Realismo:** Refinamento da simetria ocular e correção da cor dos iniciais com heterocromia, para olhos castanho escuro, garantindo consistência com a descrição da persona.
-4. **Iluminação e Ambiente:** Ajuste para luz natural (Golden Hour) para integrar o avatar com o cenário de fundo de Lisboa de forma orgânica.
+1.  **Definição da Persona:** Criámos a "Sofia", uma lisboeta de 24 anos, irónica e viciada em tecnologia.
+2.  **Design Visual:** O avatar foi gerado e refinado em várias etapas para corrigir artefatos e garantir olhos castanhos escuros e uma estética "Golden Hour" em Lisboa.
+3.  **Engenharia de Voz:** No ElevenLabs, ajustámos a *Stability* para 40% e utilizámos escrita fonética (números por extenso) para garantir a fluidez do sotaque europeu.
+4.  **Sonorização:** Criámos uma vinheta no Suno com "seamless loop potential" para permitir uma escuta contínua.
+5.  **Pós-Produção:** No CapCut, aplicámos isolamento de voz e inserimos efeitos de *glitch* nos momentos de humor do guião.
 
 ## 🚀 Resultados
-
-* **Episódio Piloto:** Um áudio de 1 minuto que cobre notícias de IA e gadgets com fluidez natural.
-* **Identidade Sonora:** Vinhetas exclusivas que misturam o ambiente urbano de Lisboa com sintetizadores tecnológicos.
-* **Persona Consistente:** Uma marca vocal reconhecível que pode ser escalada para episódios diários sem necessidade de gravação humana.
+* **Avatar da Sofia:** Imagem final refinada disponível na pasta `/assets`.
+* **[🎙️ Ouvir o Episódio Piloto aqui](./assets/episodio-01-tech-and-chill.mp3)** – Notícias sobre IA, gadgets e o Metro de Lisboa.
+* **[📄 Registro de Prompts Completo](./PROMPTS.md)** – Documentação detalhada de todos os comandos utilizados.
 
 ## 💭 Reflexão
-
-O maior desafio foi evitar o "vale da estranheza" (Uncanny Valley). Criar algo *natty* com IA exige mais do que apenas converter texto em fala; exige entender pausas, tiques de linguagem locais e o timing de uma piada. A tecnologia já permite o realismo, mas a "alma" do conteúdo ainda depende de um bom design de persona e edição final do áudio.
+O maior desafio deste projeto foi superar o "vale da estranheza" no áudio. Conseguir que uma IA fale Português de Portugal com sarcasmo e pausas naturais exige um trabalho minucioso de pontuação e escolha de termos locais. O resultado demonstra que o conteúdo "Natty" depende menos da ferramenta e mais do refinamento humano sobre a máquina.
