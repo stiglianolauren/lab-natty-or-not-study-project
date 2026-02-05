@@ -26,7 +26,7 @@ O **Tech & Chill** é um podcast diário focado em curadoria de notícias tecnol
 
 ## 🚀 Resultados
 * **Avatar da Sofia:** Imagem final refinada disponível na pasta `/assets`.
-* **[🎙️ Ouvir o Episódio Piloto aqui](./assets/episodio-01-tech-and-chill.mp3)** – Notícias sobre IA, gadgets e o Metro de Lisboa.
+* **[🎙️ Ouvir o Episódio Piloto aqui](./episodio-01-tech-and-chill.mp3)** – Notícias sobre IA, gadgets e o Metro de Lisboa.
 * **[📄 Registro de Prompts Completo](./PROMPTS.md)** – Documentação detalhada de todos os comandos utilizados.
 
 ## 💭 Reflexão
